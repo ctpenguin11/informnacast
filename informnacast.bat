@@ -1,7 +1,7 @@
 @echo off
 color F0
 :: InformN/Acast - Cisco Messaging Tool
-:: Version 1.2 - Fixed menu looping thingy
+:: Version 1.0.2 - Fixed menu looping thingy
 
 :: These shouldn't need to be changed unless you have actual web passwords setup.
 set USER=cisco
