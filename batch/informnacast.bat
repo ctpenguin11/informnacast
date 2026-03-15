@@ -1,6 +1,6 @@
 @echo off
 color F0
-:: InformN/Acast LEGACY - Cisco Messaging Tool
+:: InformN/Acast - Cisco Messaging Tool
 :: Version 1.0.5
 
 :: These shouldn't need to be changed unless you have actual web passwords setup.
@@ -20,14 +20,14 @@ pause
 
 :MENU
 cls
-echo =============================================
-echo      InformN/Acast LEGACY
-echo =============================================
+echo ======================================
+echo      InformN/Acast
+echo ======================================
 echo 1 - Basic Message
 echo 2 - Alert Message
 echo 3 - Exit
 echo 4 - Help
-echo =============================================
+echo ======================================
 set /p choice=Select an option: 
 
 if "%choice%"=="1" goto AUDIOLESS
