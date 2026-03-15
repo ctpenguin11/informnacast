@@ -1,6 +1,6 @@
 InformN/Acast Cisco Paging tool
 
-Meant for use on FreePBX Systems that dont support SingleWire Software.
+Designed for use on FreePBX Systems that dont support SingleWire Software.
 
 For this to work
 - CGI must be working
